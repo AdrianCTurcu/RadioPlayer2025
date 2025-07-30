@@ -1,4 +1,4 @@
-🎵 Radio Player by Adrian T
+🎵 Radio Player 
 Aplicație simplă de redare posturi radio online, scrisă în Python + PyQt5 și folosind `ffplay` pentru redare audio.  
 
 📌 Funcționalități
