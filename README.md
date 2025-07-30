@@ -22,4 +22,4 @@ Aplicație simplă de redare posturi radio online, scrisă în Python + PyQt5 ș
 2. Pune `ffplay.exe` în același folder cu `app.exe`
 3. Rulează `app.exe`
 
-![]()
+![](https://github.com/AdrianCTurcu/RadioPlayer2025/blob/main/RadioPlayer.jpg)
